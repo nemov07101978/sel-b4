@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javaex.iml" filepath="$PROJECT_DIR$/.idea/modules/javaex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javaex.main.iml" filepath="$PROJECT_DIR$/.idea/modules/javaex.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javaex.test.iml" filepath="$PROJECT_DIR$/.idea/modules/javaex.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ru.test_nemov.javaex.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ru.test_nemov.javaex.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ru.test_nemov.javaex.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ru.test_nemov.javaex.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selenium_tests.iml" filepath="$PROJECT_DIR$/selenium_tests.iml" />
+    </modules>
+  </component>
+</project>
