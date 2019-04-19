@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3053ddc3-e5a2-40dc-b466-31b85754cc6a" name="Default Changelist" comment="" />
+    <list default="true" id="3053ddc3-e5a2-40dc-b466-31b85754cc6a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/javaex/src/test/java/sel/b4/login_litecart_admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/javaex/.gradle/" />
     <ignored path="$PROJECT_DIR$/javaex/build/" />
@@ -48,11 +51,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javaex/src/test/java/sel/b4/first_test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+            <state>
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javaex/src/test/java/sel/b4/login_litecart_admin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="28" column="53" lean-forward="true" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -77,6 +91,7 @@
       <list>
         <option value="$PROJECT_DIR$/javaex/build.gradle" />
         <option value="$PROJECT_DIR$/javaex/src/test/java/sel/b4/first_test.java" />
+        <option value="$PROJECT_DIR$/javaex/src/test/java/sel/b4/login_litecart_admin.java" />
       </list>
     </option>
   </component>
@@ -124,6 +139,15 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="selenium_tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium_tests" type="462c0819:PsiDirectoryNode" />
+              <item name="javaex" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="b4" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -150,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.sel.b4 in javaex.test">
+  <component name="RunManager" selected="JUnit.login_litecart_admin">
     <configuration name="first_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaex.test" />
       <extension name="coverage">
@@ -161,6 +185,21 @@
       </extension>
       <option name="PACKAGE_NAME" value="sel.b4" />
       <option name="MAIN_CLASS_NAME" value="sel.b4.first_test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="login_litecart_admin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaex.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sel.b4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sel.b4" />
+      <option name="MAIN_CLASS_NAME" value="sel.b4.login_litecart_admin" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -182,6 +221,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.login_litecart_admin" />
         <item itemvalue="JUnit.sel.b4 in javaex.test" />
         <item itemvalue="JUnit.first_test" />
       </list>
@@ -213,12 +253,27 @@
     <history-entry file="sel_b4_in_javaex_test - 2019.04.17 at 14h 24m 21s.xml">
       <configuration name="sel.b4 in javaex.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="sel_b4_in_javaex_test - 2019.04.17 at 14h 48m 11s.xml">
+      <configuration name="sel.b4 in javaex.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="first_test - 2019.04.17 at 14h 49m 33s.xml">
+      <configuration name="first_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="sel_b4_in_javaex_test - 2019.04.17 at 14h 49m 41s.xml">
+      <configuration name="sel.b4 in javaex.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="sel_b4_in_javaex_test - 2019.04.17 at 14h 50m 47s.xml">
+      <configuration name="sel.b4 in javaex.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="login_litecart_admin - 2019.04.19 at 08h 04m 58s.xml">
+      <configuration name="login_litecart_admin" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -227,7 +282,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -262,8 +317,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/javaex/src/test/java/sel/b4/first_test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaex/src/test/java/sel/b4/login_litecart_admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="28" column="53" lean-forward="true" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
