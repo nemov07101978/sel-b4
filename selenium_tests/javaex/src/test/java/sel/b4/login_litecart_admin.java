@@ -8,7 +8,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import static org.openqa.selenium.support.ui.ExpectedConditions.titleIs;
+//import org.openqa.selenium.ie.InternetExplorerDriver;
+//import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class login_litecart_admin {
 
@@ -18,6 +19,9 @@ public class login_litecart_admin {
     @Before
     public void start() {
         driver = new ChromeDriver();
+        //WebDriver chromeDriver = new ChromeDriver();
+        //WebDriver ieDriver = new InternetExplorerDriver();
+        //WebDriver firefoxDriver = new FirefoxDriver();
         wait = new WebDriverWait(driver, 20);
     }
 
